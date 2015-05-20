@@ -1,0 +1,13 @@
+C:\Users\Lea\AppData\Local\Temporary Projects\UltimoJuego8-4\bin\Debug\UltimoJuego8-4.exe
+C:\Users\Lea\AppData\Local\Temporary Projects\UltimoJuego8-4\bin\Debug\UltimoJuego8-4.pdb
+C:\Users\Lea\AppData\Local\Temporary Projects\UltimoJuego8-4\obj\x86\Debug\UltimoJuego8-4.exe
+C:\Users\Lea\AppData\Local\Temporary Projects\UltimoJuego8-4\obj\x86\Debug\UltimoJuego8-4.pdb
+C:\Users\Lea\Desktop\UltimoJuego8-4\UltimoJuego8-4\obj\x86\Debug\UltimoJuego8-4.exe
+C:\Users\Lea\Desktop\UltimoJuego8-4\UltimoJuego8-4\obj\x86\Debug\UltimoJuego8-4.pdb
+C:\Users\Lea\Desktop\UltimoJuego8-4\UltimoJuego8-4\bin\Debug\UltimoJuego8-4.exe
+C:\Users\Lea\Desktop\UltimoJuego8-4\UltimoJuego8-4\bin\Debug\UltimoJuego8-4.pdb
+C:\Users\Alumno\Desktop\UltimoJuego8-4\UltimoJuego8-4\obj\x86\Debug\UltimoJuego8-4.exe
+C:\Users\Alumno\Desktop\UltimoJuego8-4\UltimoJuego8-4\obj\x86\Debug\UltimoJuego8-4.pdb
+C:\Users\Alumno\Desktop\UltimoJuego8-4\UltimoJuego8-4\bin\Debug\UltimoJuego8-4.exe
+C:\Users\Alumno\Desktop\UltimoJuego8-4\UltimoJuego8-4\bin\Debug\UltimoJuego8-4.pdb
+C:\Users\Alumno\Desktop\UltimoJuego8-4\UltimoJuego8-4\obj\x86\Debug\ResolveAssemblyReference.cache
