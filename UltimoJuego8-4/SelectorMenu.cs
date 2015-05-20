@@ -5,9 +5,9 @@ using System.Text;
 
 namespace UltimoJuego8_4
 {
-    class Puntos
+    class SelectorMenu
     {
-        public int x=45, y=23;
         public ConsoleColor color;
+        public int x=60, y=2;
     }
 }

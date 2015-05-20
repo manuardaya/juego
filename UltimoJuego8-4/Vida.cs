@@ -7,7 +7,7 @@ namespace UltimoJuego8_4
 {
     class Vida
     {
-        public int x, y;
+        public int x=45, y=24;
         public ConsoleColor color;
     }
 }

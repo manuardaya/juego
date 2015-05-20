@@ -5,12 +5,20 @@ using System.Text;
 
 namespace UltimoJuego8_4
 {
-    class Enemigo
+    class Enemigo 
     {
-        public int x, y;
-        public ConsoleColor color;
-        public int bandera = 1;
+        public Enemigo()
+        {
+        }
 
-        
+        public Enemigo (int X, int Y)
+        {
+            this.x = X;
+            this.y = Y;
+        }
+
+        public int x, y;
+        public int bandera=1;
+        public ConsoleColor color;       
     }
 }
